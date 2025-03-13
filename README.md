@@ -84,7 +84,7 @@ Ensure you have the following installed:
    ```bash
    mysql -u root -p
    CREATE DATABASE jewels;
-   GRANT ALL PRIVILEGES ON jewels.* TO 'harsh'@'localhost' IDENTIFIED BY 'harsh';
+   GRANT ALL PRIVILEGES ON jewels.* TO 'username'@'localhost' IDENTIFIED BY 'username';
    FLUSH PRIVILEGES;
    EXIT;
    ```

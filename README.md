@@ -174,13 +174,6 @@ Ensure you have the following installed:
 
 ---
 
-## 📘 Future Enhancements
-
-- **Email Notifications:** Notify users of order updates and production status.
-- **Payment Integration:** Support for online payment processing.
-- **Analytics Dashboard:** Track sales, production costs, and user activity.
-
----
 
 **✨ Setup complete! Happy building! ✨**
 
